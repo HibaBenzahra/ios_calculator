@@ -42,5 +42,5 @@ Ensure you have Python installed on your system. You also need to install `custo
 If you'd like to improve this project, feel free to fork the repository and submit a pull request with your enhancements.
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source.
 
